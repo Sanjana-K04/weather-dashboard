@@ -13,11 +13,13 @@ Tech Stack
 - Data Visualization: Chart.js
 - API Integration: OpenWeatherMap API 
 
+LiveDemo: https://weather-dashboard-npivcu5i0-sanjana-k04.vercel.app/
+
 Installation Guide
 
 1. Clone the repository:
    git clone https://github.com/Sanjana-K04/weather-dashboard.git
-   cd weather-app
+   cd weather-dashboard
 
 2. Install dependencies:
    npm install
